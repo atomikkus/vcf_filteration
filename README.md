@@ -1,1 +1,3 @@
-# vcf_filteration
+### Filter Annotated VCFs
+
+Filters annotated merged vcfs
